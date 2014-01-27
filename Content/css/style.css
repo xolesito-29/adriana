@@ -1,0 +1,23 @@
+﻿.stdin {
+    margin-top: 0.75em;
+    width: 95% !important;
+    background: transparent !important;
+    border: none !important;
+    color: white !important;
+    font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
+    font-weight: bold;
+    cursor: text;
+    outline: none !important;
+}
+
+.output {
+    font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
+}
+
+.icon-white {
+    color: white;
+}
+
+.message {
+    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+}

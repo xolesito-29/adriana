@@ -1,0 +1,11 @@
+﻿.stdin 
+{
+    margin-top: 0.75em;
+    width: 95% !important;
+    background: transparent !important;
+    border: none !important;
+    color: white !important;
+    font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
+    font-weight: bold;
+    cursor: text;
+}
